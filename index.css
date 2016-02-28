@@ -748,33 +748,10 @@ aside a:active,aside a:hover,aside a:link,aside a:visited {
 }
 
 .container {
-    margin-top: 10px
+   width:100%;
 }
 
-@media screen and (max-width: 767px) {
-    .container {
-        padding:5px 0;
-        margin-top: 0
-    }
-}
 
-@media screen and (min-width: 768px) {
-    .container {
-        width:750px
-    }
-}
-
-@media screen and (min-width: 992px) {
-    .container {
-        width:970px
-    }
-}
-
-@media screen and (min-width: 1200px) {
-    .container {
-        width:1030px
-    }
-}
 
 .content,header {
     padding: 30px 45px
