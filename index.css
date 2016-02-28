@@ -7,7 +7,7 @@ a:active,a:hover,body {
 }
 
 body,h4,h5 {
-    font-size: 16px
+    font-size: 25px;
 }
 
 a:link,a:visited,strong {
@@ -54,7 +54,7 @@ h1 {
 }
 
 h2 {
-    font-size: 20.8px
+    font-size: 30px;
 }
 
 h3 {
